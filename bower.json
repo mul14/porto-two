@@ -1,0 +1,17 @@
+{
+  "name": "PV3",
+  "version": "0.0.0",
+  "authors": [
+    "Mulia Arifandy Nasution <mul14.net@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ihover": "~1.0.0",
+    "bootstrap-sass-official": "~3.1.1+2",
+    "jquery": "~2.1.1",
+    "fontello": "~5.1.0",
+    "imagesloaded": "~3.1.5",
+    "masonry": "~3.1.5",
+    "bootstrap": "~3.1.1"
+  }
+}
