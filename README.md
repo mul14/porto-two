@@ -1,8 +1,8 @@
 Porto Two - Simple Portfolio Design
 ===================================
 
-![Screenshot](screenshot1.jpg)
-![Screenshot](screenshot2.jpg)
+![Screenshot](screenshot01.jpg)
+![Screenshot](screenshot02.jpg)
 
 This template use
 -----------------
