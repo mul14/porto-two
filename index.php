@@ -6,6 +6,7 @@
 
     <link rel="stylesheet" href="public/style.min.css"/>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto+Sans|Bree+Serif|Niconne"/>
 </head>
 <body>
 
